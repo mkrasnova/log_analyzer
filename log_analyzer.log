@@ -1,8 +1,0 @@
-[2021.11.30 00:21:26] I Config "{'REPORT_SIZE': 500, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'LOG_FILE': 'log_analyzer.log'}" was applied
-[2021.11.30 00:21:26] I Directory for log analyze: log
-[2021.11.30 00:21:26] I Last logfile: log/nginx-access-ui.log-20211111.gz
-[2021.11.30 00:21:26] I REPORT_DIR "reports" is already exist
-[2021.11.30 00:21:26] I Report file "report-2021.11.11.html" created in dir "reports"
-[2021.11.30 00:21:26] I The log log/nginx-access-ui.log-20211111.gz is open for parsing
-[2021.11.30 00:21:37] I 2613686 of 2613774 lines processed
-[2021.11.30 00:21:38] I The report was successfully generated in reports/report-2021.11.11.html
