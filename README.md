@@ -1,10 +1,10 @@
 # NGINX Log Analyzer
 
-The script analyzes the log with the most recent date and generates a html-report with statistics on the time of requests.
+The script analyzes the log with the most recent date and generates a html-report with statistics on the time of requests
 
 ## Getting Started
 
-You need to install Python 3 to run log analyzer script.
+You need to install Python 3 to run log analyzer script
 
 ### Installing
 
